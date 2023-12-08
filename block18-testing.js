@@ -37,6 +37,3 @@ They should be allowed to do either, but should be asked if they want to create 
         If a user continues as guest, they should not be able to save credit carts or addresses
         If a user completes the checkout as a guest, they should be given an option to "save their information" by signing up
     The user should not be able to continue to the check out process without selecting "log in", "sign up", or "checkout as guest"
-
-
-
